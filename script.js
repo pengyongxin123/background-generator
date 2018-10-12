@@ -1,6 +1,6 @@
 var _ =require('lodash');
 var array = [1,2,3,4,5,6];
-console.log('test:', _.without(array,3));
+console.log('test:', _.without(array,4));
 
 var h3 = document.querySelector("h3");
 var color1 = document.querySelector(".color1");
